@@ -47,6 +47,7 @@ body{
     align-items: center;
     justify-content: space-between;
     gap: 82px;
+    min-height: 100vh;
 }
 
 .apresentacao__conteudo{
@@ -119,6 +120,7 @@ body{
     font-family: var(--font-secundaria);
     font-size: 24px;
     font-weight: 400;
+    
 }
 
 @media (max-width: 1200px) {
